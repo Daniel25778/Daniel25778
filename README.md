@@ -53,9 +53,9 @@
   
   - 😉 Pronomes: ele/dele
   
-  - 👀 Sobre mim: Esse é o meu perfil no GitHub. Aqui você encontrará os projetos que eu já desenvolvi e os meus projetos em andamento. Sou um programador com 6 mses de experiencia com habilidades em algumas linguagens de programação e ferramentas de desenvolvimento que encontrei pelo o caminho.
+  - 👀 Sobre mim: Esse é o meu perfil no GitHub. Aqui você encontrará os projetos que eu já desenvolvi e os meus projetos em andamento. Sou um programador com 6 mses         de experiencia com habilidades em algumas linguagens de programação e ferramentas de desenvolvimento que encontrei pelo o caminho.
+ 
+        Meu objetivo é criar soluções inovadoras e eficientes para resolver problemas de programação desafiadores, além de expandir os meus conhecimentos e me manter           cada vez mais atualizado no mundo da tecnologia. Se você tiver alguma dúvida sobre um dos meus projetos ou quiser colaborar em algum deles, não hesite em               entrar em contato comigo. Estou sempre procurando novas ideias e desafios para aprimorar as minhas habilidades e compartilhar conhecimento com outros                   desenvolvedores.
 
-Meu objetivo é criar soluções inovadoras e eficientes para resolver problemas de programação desafiadores, além de expandir os meus conhecimentos e me manter cada vez mais atualizado no mundo da tecnologia. Se você tiver alguma dúvida sobre um dos meus projetos ou quiser colaborar em algum deles, não hesite em entrar em contato comigo. Estou sempre procurando novas ideias e desafios para aprimorar as minhas habilidades e compartilhar conhecimento com outros desenvolvedores.
-
-Agradeço por visitar o meu perfil no GitHub e espero poder colaborar com você em algum projeto no futuro!
+   Agradeço por visitar o meu perfil no GitHub e espero poder colaborar com você em algum projeto no futuro!
 
