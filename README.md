@@ -33,7 +33,7 @@
  
  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
-   <img align="right" alt="Gif-desenvolvedor" height="200" width="300" src="https://media3.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e47h36ellymcdyuys2bujsr4t6eoxbzshjmnuoeb77g&rid=giphy.gif&ct=g">
+   <img align="right" margin-top="20px" alt="Gif-desenvolvedor" height="200" width="300" src="https://media3.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e47h36ellymcdyuys2bujsr4t6eoxbzshjmnuoeb77g&rid=giphy.gif&ct=g">
 </div>
   
   ##
