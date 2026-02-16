@@ -121,6 +121,8 @@ Adopts software development best practices, including ESLint, Prettier, Atomic D
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
+Coming Soon
+
 ------
 
 Last Edited on: 16/02/2026
