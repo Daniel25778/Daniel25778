@@ -35,7 +35,10 @@ Experience building mobile applications and responsive interfaces across multipl
 Design and prototyping of user interfaces with emphasis on user experience and visual consistency.
 
 ⚙️ Back-End Understanding
-Comfortable working with back-end tasks when needed, including API integration, data handling, and application structure support
+Comfortable working with back-end tasks when needed, including API integration, data handling, and application structure support 
+
+🧩 Best Practices & Architecture
+Adopts software development best practices, including ESLint, Prettier, Atomic Design, and modular, maintainable component structures to ensure code quality, scalability, and consistency.
 
 ## 🛠 &nbsp;Tech Stack
 
