@@ -96,17 +96,11 @@ Comfortable working with back-end tasks when needed, including API integration, 
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniel25778&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Most Used Language
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Daniel25778&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:danielcawil94@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/danielwilsonalves/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </div>
