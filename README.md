@@ -11,9 +11,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
----
+<div align="center">
+<a href="mailto:danielcawil94@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/danielwilsonalves/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</a>
+   <a href="https://wa.me/5511946363724">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</div>
 
-## 🛠 &nbsp;Tech Stack
+## 🧒 &nbsp;About Me
 
 💼 Experience
 Mid-Level Front-End Developer with over 4 years of experience building modern, responsive, and user-centered applications.
@@ -76,7 +83,6 @@ Comfortable working with back-end tasks when needed, including API integration, 
 
 ![](https://github-readme-stats.vercel.app/api?username=Daniel25778&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
-
 </div>
  
  ### 💳 Github Profile Summary Card
@@ -98,15 +104,6 @@ Comfortable working with back-end tasks when needed, including API integration, 
  ### 📈 Activity Graph
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniel25778&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🔗 &nbsp;Contact Me
-
-<div align="center">
-<a href="mailto:danielcawil94@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/danielwilsonalves/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-</div>
 
 <h5 align="center">Where design meets performance and code becomes experience! 💜</h5>
 
