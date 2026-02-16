@@ -13,7 +13,7 @@
 
 ---
 
-## 〽 &nbsp;About Me
+## 🛠 &nbsp;Tech Stack
 
 💼 Experience
 Mid-Level Front-End Developer with over 4 years of experience building modern, responsive, and user-centered applications.
