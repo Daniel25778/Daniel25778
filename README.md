@@ -86,14 +86,6 @@ Adopts software development best practices, including ESLint, Prettier, Atomic D
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84)](https://developer.android.com/studio)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Daniel25778&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-</div>
  
  ### 💳 Github Profile Summary Card
  
